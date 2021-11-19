@@ -1,27 +1,26 @@
-
 html { 
     background-image: url(https://jooinn.com/images/white-and-black-mountain-wallpaper.jpg);
     background-size: cover;
 }
 
 p {
-    font-size: 20px;
+    font-size: 29px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 25px;
 }
 
 ul {
-    font-size: 20px;
+    font-size: 30px;
 }
 a {
     color: white;
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 50px;
     margin: 50px 50px 50px 50px;
 }
 
 h2 {
-    font-size: 30px;
+    font-size: 40px;
 }
